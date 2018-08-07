@@ -40,3 +40,6 @@ defaults write com.apple.coreservices.uiagent CSUILastOSVersionWhereSafariRecomm
 # Setup bash settings.
 chmod +x ./reload.sh
 ./reload.sh
+
+# My stuff
+brew cask install iterm2
