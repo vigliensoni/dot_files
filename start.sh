@@ -41,5 +41,10 @@ defaults write com.apple.coreservices.uiagent CSUILastOSVersionWhereSafariRecomm
 chmod +x ./reload.sh
 ./reload.sh
 
-# My stuff
+# My production apps
 brew cask install iterm2
+brew cask install evernote
+brew cask install shades
+
+# Communication apps
+brew cask install franz
