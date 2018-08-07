@@ -23,6 +23,10 @@ sudo chown -R $(whoami) /usr/local/lib/pkgconfig
 brew install python@3
 brew install python@2
 brew install netcat
+
+pip2 install virtualenv
+
+
 # Because mac verion of xargs and sed is god awful.
 brew install findutils
 brew install gnu-sed
