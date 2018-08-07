@@ -53,3 +53,4 @@ brew cask install dropbox
 
 # Communication apps
 brew cask install franz
+brew cask install signal
