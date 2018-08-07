@@ -45,6 +45,7 @@ chmod +x ./reload.sh
 brew cask install iterm2
 brew cask install evernote
 brew cask install shades
+brew cask install dropbox
 
 # Communication apps
 brew cask install franz
