@@ -6,4 +6,4 @@ OS X dotfiles.
 
 # Dot files
 I based mine on @deepio:
-- https://github.com/deepio/dotfiles :beer:
+- https://github.com/deepio/dot_files :beer:
