@@ -41,9 +41,6 @@ defaults write com.apple.coreservices.uiagent CSUIHasSafariBeenLaunched -bool YE
 defaults write com.apple.coreservices.uiagent CSUIRecommendSafariNextNotificationDate -date 2050-01-01T00:00:00Z
 defaults write com.apple.coreservices.uiagent CSUILastOSVersionWhereSafariRecommendationWasMade -float 10.99
 
-# Setup bash settings.
-chmod +x ./reload.sh
-./reload.sh
 
 # Productivity apps
 brew cask install iterm2
@@ -51,7 +48,12 @@ brew cask install evernote
 brew cask install shades
 brew cask install dropbox
 brew cask install macpass
+brew cask install appcleaner
 
 # Communication apps
 brew cask install franz
 brew cask install signal
+
+# Setup bash settings.
+chmod +x ./reload.sh
+./reload.sh

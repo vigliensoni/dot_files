@@ -1,5 +1,5 @@
 # Always start from GH directory.
-cd ~/Documents/GitHub
+cd ~/Documents/2_CODE
 
 # Add `~/bin` to the `$PATH`
 export PATH="$HOME/bin:$PATH";

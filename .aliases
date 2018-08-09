@@ -13,7 +13,7 @@ fi
 alias ~="cd ~"
 alias ..="cd .."
 alias ...="cd ../.."
-alias _code="cd ~/Documents/GitHub"
+alias _code="cd ~/Documents/2_CODE"
 
 # Always use color output for `ls`
 # -A lists everything but . and ..
