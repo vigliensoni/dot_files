@@ -23,6 +23,7 @@ sudo chown -R $(whoami) /usr/local/lib/pkgconfig
 brew install python@3
 brew install python@2
 brew install netcat
+brew install docker
 
 pip2 install virtualenv
 
