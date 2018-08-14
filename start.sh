@@ -26,6 +26,7 @@ brew install netcat
 brew install docker
 
 pip2 install virtualenv
+pip3 install ipython
 
 
 # Because mac verion of xargs and sed is god awful.
