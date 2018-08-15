@@ -17,6 +17,7 @@ brew cask install docker
 # Install Misc.
 brew cask install vlc
 brew cask install keka
+brew cask install skim
 
 # Install Tools.
 sudo chown -R $(whoami) /usr/local/lib/pkgconfig
