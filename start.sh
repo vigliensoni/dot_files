@@ -28,6 +28,7 @@ brew install docker
 
 pip2 install virtualenv
 pip3 install ipython
+brew install imagemagick
 
 
 # Because mac verion of xargs and sed is god awful.
