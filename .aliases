@@ -13,7 +13,15 @@ fi
 alias ~="cd ~"
 alias ..="cd .."
 alias ...="cd ../.."
-alias _code="cd ~/Documents/2_CODE"
+alias code="cd ~/Documents/2_CODE"
+
+# Shortcuts
+alias d="cd ~/Dropbox/cloud-vigliensoni-com"
+alias dl="cd ~/Downloads"
+alias dt="cd ~/Desktop"
+alias p="cd ~/projects"
+alias g="git"
+
 
 # Always use color output for `ls`
 # -A lists everything but . and ..
@@ -37,6 +45,9 @@ alias path='echo -e ${PATH//:/\\n}'
 # Show/hide hidden files in Finder
 alias show="defaults write com.apple.finder AppleShowAllFiles -bool true && killall Finder"
 alias hide="defaults write com.apple.finder AppleShowAllFiles -bool false && killall Finder"
+
+# Get macOS Software Updates, and update installed Ruby gems, Homebrew, npm, and their installed packages
+alias update='sudo softwareupdate -i -a; brew update; brew upgrade; brew cleanup; npm install npm -g; npm update -g; sudo gem update --system; sudo gem update; sudo gem cleanup'
 
 # Development
 alias makeenv="python3 -m venv env"
