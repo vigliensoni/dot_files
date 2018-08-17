@@ -18,6 +18,7 @@ brew cask install docker
 brew cask install vlc
 brew cask install keka
 brew cask install skim
+brew cask install spectacle
 
 # Install Tools.
 sudo chown -R $(whoami) /usr/local/lib/pkgconfig
@@ -25,6 +26,7 @@ brew install python@3
 brew install python@2
 brew install netcat
 brew install docker
+brew install npm
 
 pip2 install virtualenv
 pip3 install ipython
