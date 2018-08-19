@@ -79,7 +79,7 @@ function smartresize() {
 }
 
 # `c` clears the terminal
-function c() {
+function cl() {
 	clear;
 }
 
