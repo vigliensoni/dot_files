@@ -31,6 +31,7 @@ brew install npm
 pip2 install virtualenv
 pip3 install ipython
 brew install imagemagick
+brew install tree
 
 
 # Because mac verion of xargs and sed is god awful.
