@@ -1,5 +1,5 @@
 # Always start from GH directory.
-cd ~/Documents/2_CODE
+cd ~
 
 # Add `~/bin` to the `$PATH`
 export PATH="$HOME/bin:$PATH";
