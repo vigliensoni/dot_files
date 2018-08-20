@@ -15,7 +15,6 @@ brew cask install atom
 brew cask install docker
 
 # Install Misc.
-brew cask install vlc
 brew cask install keka
 brew cask install skim
 brew cask install spectacle
@@ -60,6 +59,10 @@ brew cask install appcleaner
 # Communication apps
 brew cask install franz
 brew cask install signal
+
+# Media apps
+ #brew cast install mkchromecast
+brew cask install vlc
 
 # Setup bash settings.
 chmod +x ./reload.sh
