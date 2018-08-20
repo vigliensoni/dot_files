@@ -23,6 +23,7 @@ brew cask install spectacle
 sudo chown -R $(whoami) /usr/local/lib/pkgconfig
 brew install python@3
 brew install python@2
+brew install ruby
 brew install netcat
 brew install docker
 brew install npm
