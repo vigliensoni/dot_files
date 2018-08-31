@@ -9,6 +9,7 @@ cp ./.gitconfig ~/
 . ~/.bash_prompt
 . ~/.bash_profile
 . ~/.functions
+. ~/.macos
 bind -f ~/.inputrc
 
 # Update all brew packages, and cleanup old versions.
