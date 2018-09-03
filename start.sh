@@ -58,6 +58,7 @@ brew cask install macpass
 brew cask install appcleaner
 
 # Communication apps
+brew cask install skype
 brew cask install franz
 brew cask install signal
 
