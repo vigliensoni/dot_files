@@ -56,6 +56,7 @@ brew cask install shades
 brew cask install dropbox
 brew cask install macpass
 brew cask install appcleaner
+brew cask install bibdesk
 
 # Communication apps
 brew cask install skype
