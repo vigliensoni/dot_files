@@ -66,6 +66,7 @@ brew cask install signal
 # Media apps
  #brew cast install mkchromecast
 brew cask install vlc
+brew cask install cycling74-max
 
 # Setup bash settings.
 chmod +x ./reload.sh
