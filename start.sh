@@ -73,11 +73,8 @@ brew cask install cycling74-max
 chmod +x ./reload.sh
 ./reload.sh
 
+
+# # Look and feel bash
 # Install oh my zsh
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
 
-# Install powerlevel9k
-git clone https://github.com/bhilburn/powerlevel9k.git ~/.oh-my-zsh/custom/themes/powerlevel9k
-
-# Install powerline fonts
-pip3 install --user git+git://github.com/powerline/powerline
