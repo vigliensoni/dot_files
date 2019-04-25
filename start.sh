@@ -77,12 +77,7 @@ chmod +x ./reload.sh
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
 
 # Install powerlevel9k
-brew tap sambadevi/powerlevel9k
-brew install powerlevel9k
-echo "source /usr/local/opt/powerlevel9k@0.6.3/powerlevel9k.zsh-theme" >> ~/.zshrc
-
-# git clone https://github.com/bhilburn/powerlevel9k.git ~/.oh-my-zsh/custom/themes/powerlevel9k
-# ZSH_THEME="powerlevel9k/powerlevel9k"
+git clone https://github.com/bhilburn/powerlevel9k.git ~/.oh-my-zsh/custom/themes/powerlevel9k
 
 # Install powerline fonts
 pip3 install --user git+git://github.com/powerline/powerline
