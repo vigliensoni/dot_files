@@ -65,6 +65,7 @@ brew cask install signal
 
 # Media apps
  #brew cast install mkchromecast
+brew install sox
 brew cask install vlc
 
 # Setup bash settings.
