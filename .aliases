@@ -13,7 +13,7 @@ fi
 alias ~="cd ~"
 alias ..="cd .."
 alias ...="cd ../.."
-alias code="cd ~/Documents/2_CODE"
+# alias code="cd ~/Documents/2_CODE"
 
 # Shortcuts
 alias dr="cd ~/Dropbox/cloud-vigliensoni-com"

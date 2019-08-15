@@ -66,9 +66,16 @@ brew cask install signal
 
 # Media apps
  #brew cast install mkchromecast
+brew install sox
 brew cask install vlc
 brew cask install cycling74-max
 
 # Setup bash settings.
 chmod +x ./reload.sh
 ./reload.sh
+
+
+# # Look and feel bash
+# Install oh my zsh
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
+
