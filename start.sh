@@ -53,21 +53,24 @@ defaults write com.apple.coreservices.uiagent CSUILastOSVersionWhereSafariRecomm
 brew cask install iterm2
 brew cask install evernote
 brew cask install shades
-brew cask install dropbox
+# brew cask install dropbox
 brew cask install macpass
 brew cask install appcleaner
 brew cask install bibdesk
 
 # Communication apps
 brew cask install skype
-brew cask install franz
-brew cask install signal
+# brew cask install rambox
+# brew cask install signal
 
 # Media apps
  #brew cast install mkchromecast
 brew install sox
 brew cask install vlc
 brew cask install cycling74-max
+
+# Connectivity
+# brew cask install lulu # block non-wanted connections
 
 # Setup bash settings.
 chmod +x ./reload.sh
