@@ -13,6 +13,7 @@ brew cask install google-chrome
 # Install Dev apps.
 brew cask install atom
 brew cask install docker
+brew cask install visual-studio-code
 
 # Install Misc.
 brew cask install keka
@@ -61,6 +62,8 @@ brew cask install bibdesk
 
 # Communication apps
 brew cask install skype
+brew cask install slack
+brew cask install zoomus
 # brew cask install rambox
 # brew cask install signal
 
@@ -71,7 +74,7 @@ brew cask install vlc
 brew cask install cycling74-max
 
 # Connectivity
-# brew cask install lulu # block non-wanted connections
+brew cask install lulu # block non-wanted connections
 
 # Setup bash settings.
 chmod +x ./reload.sh
