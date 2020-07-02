@@ -55,6 +55,8 @@ defaults write com.apple.coreservices.uiagent CSUILastOSVersionWhereSafariRecomm
 brew cask install iterm2
 brew cask install evernote
 brew cask install shades
+brew cask install google-drive-file-stream
+
 # brew cask install dropbox
 brew cask install macpass
 brew cask install appcleaner
@@ -64,7 +66,7 @@ brew cask install bibdesk
 brew cask install skype
 brew cask install slack
 brew cask install zoomus
-# brew cask install rambox
+brew cask install rambox
 # brew cask install signal
 
 # Media apps
