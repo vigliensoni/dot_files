@@ -56,6 +56,7 @@ brew cask install iterm2
 brew cask install evernote
 brew cask install shades
 brew cask install google-drive-file-stream
+brew cask install vnc-viewer
 
 # brew cask install dropbox
 brew cask install macpass
