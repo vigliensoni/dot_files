@@ -76,6 +76,7 @@ brew cask install rambox
 brew install sox
 brew cask install vlc
 brew cask install cycling74-max
+brew cask install midi-monitor
 
 # Connectivity
 brew cask install lulu # block non-wanted connections
