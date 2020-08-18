@@ -73,6 +73,7 @@ brew cask install rambox
 
 # Media apps
  #brew cast install mkchromecast
+brew cask install blackhole
 brew install sox
 brew cask install vlc
 brew cask install cycling74-max
