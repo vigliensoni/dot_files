@@ -77,6 +77,7 @@ brew cask install blackhole
 brew install sox
 brew cask install vlc
 brew cask install cycling74-max
+brew cask install ableton-live
 brew cask install midi-monitor
 
 # Connectivity
