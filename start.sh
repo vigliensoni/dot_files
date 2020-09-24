@@ -18,7 +18,7 @@ brew cask install visual-studio-code
 # Install Misc.
 brew cask install keka
 brew cask install skim
-brew cask install spectacle
+brew cask install rectangle
 
 # Install Tools.
 sudo chown -R $(whoami) /usr/local/lib/pkgconfig
