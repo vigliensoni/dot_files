@@ -52,36 +52,37 @@ defaults write com.apple.coreservices.uiagent CSUILastOSVersionWhereSafariRecomm
 
 
 # Productivity apps
-brew cask install iterm2
-brew cask install evernote
-brew cask install shades
-brew cask install google-drive-file-stream
-brew cask install vnc-viewer
-brew cask install obs
+brew install --cask iterm2
+brew install --cask evernote
+brew install --cask shades
+brew install --cask google-drive-file-stream
+brew install --cask vnc-viewer
+brew install --cask obs
 
-# brew cask install dropbox
-brew cask install macpass
-brew cask install appcleaner
-brew cask install bibdesk
+# brew install --cask dropbox
+brew install --cask macpass
+brew install --cask appcleaner
+brew install --cask bibdesk
 
 # Communication apps
-brew cask install skype
-brew cask install slack
-brew cask install zoomus
-brew cask install rambox
-# brew cask install signal
+brew install --cask skype
+brew install --cask slack
+brew install --cask zoomus
+brew install --cask rambox
+# brew install --cask signal
 
 # Media apps
  #brew cast install mkchromecast
-brew cask install blackhole
+brew install --cask handbrake
+brew install --cask blackhole
 brew install sox
-brew cask install vlc
-brew cask install cycling74-max
-brew cask install ableton-live-suite
-brew cask install midi-monitor
+brew install --cask vlc
+brew install --cask cycling74-max
+brew install --cask ableton-live-suite
+brew install --cask midi-monitor
 
 # Connectivity
-brew cask install lulu # block non-wanted connections
+brew install --cask lulu # block non-wanted connections
 
 # Setup bash settings.
 chmod +x ./reload.sh
