@@ -58,6 +58,7 @@ brew install --cask shades
 brew install --cask google-drive-file-stream
 brew install --cask vnc-viewer
 brew install --cask obs
+brew install --cask zotero
 
 # brew install --cask dropbox
 brew install --cask macpass
