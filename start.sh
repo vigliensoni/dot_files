@@ -11,8 +11,8 @@ brew cask install FireFox
 brew cask install google-chrome
 
 # Install Dev apps.
-brew cask install atom
-brew cask install docker
+# brew cask install atom
+# brew cask install docker
 brew cask install visual-studio-code
 
 # Install Misc.
@@ -23,10 +23,10 @@ brew cask install rectangle
 # Install Tools.
 sudo chown -R $(whoami) /usr/local/lib/pkgconfig
 brew install python@3
-brew install python@2
+# brew install python@2
 brew install ruby
 brew install netcat
-brew install docker
+# brew install docker
 brew install npm
 brew install htop
 
