@@ -81,6 +81,8 @@ brew install --cask vlc
 brew install --cask cycling74-max
 brew install --cask ableton-live-suite
 brew install --cask midi-monitor
+brew install --cask vcv-rack
+brew install --cask surge-synthesizer
 
 # Connectivity
 brew install --cask lulu # block non-wanted connections
