@@ -83,6 +83,7 @@ brew install --cask ableton-live-suite
 brew install --cask midi-monitor
 brew install --cask vcv-rack
 brew install --cask surge-synthesizer
+brew install --cask reaper
 
 # Connectivity
 brew install --cask lulu # block non-wanted connections
