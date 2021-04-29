@@ -60,7 +60,7 @@ brew install --cask vnc-viewer
 brew install --cask obs
 brew install --cask zotero
 
-# brew install --cask dropbox
+brew install --cask dropbox
 brew install --cask macpass
 brew install --cask appcleaner
 brew install --cask bibdesk
