@@ -75,7 +75,7 @@ brew install --cask rambox
 # Media apps
  #brew cast install mkchromecast
 brew install --cask handbrake
-brew install --cask blackhole
+# brew install --cask blackhole
 brew install sox
 brew install --cask vlc
 brew install --cask cycling74-max
@@ -83,6 +83,7 @@ brew install --cask ableton-live-suite
 brew install --cask midi-monitor
 brew install --cask vcv-rack
 brew install --cask surge-synthesizer
+brew install mkchromecast
 
 # Connectivity
 brew install --cask lulu # block non-wanted connections
