@@ -65,6 +65,8 @@ brew install --cask macpass
 brew install --cask appcleaner
 brew install --cask bibdesk
 
+brew install clickup
+
 # Communication apps
 brew install --cask skype
 brew install --cask slack
