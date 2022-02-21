@@ -87,7 +87,7 @@ brew install --cask vcv-rack
 brew install --cask surge-synthesizer
 brew install mkchromecast
 brew install --cask reaper
-
+brew install supercollider
 
 # Connectivity
 brew install --cask lulu # block non-wanted connections
