@@ -65,8 +65,6 @@ brew install --cask macpass
 brew install --cask appcleaner
 brew install --cask bibdesk
 
-brew install clickup
-
 # Communication apps
 brew install --cask skype
 brew install --cask slack
@@ -77,7 +75,7 @@ brew install --cask rambox
 # Media apps
  #brew cast install mkchromecast
 brew install --cask handbrake
-# brew install --cask blackhole
+brew install --cask blackhole
 brew install sox
 brew install --cask vlc
 brew install --cask cycling74-max
@@ -85,12 +83,15 @@ brew install --cask ableton-live-suite
 brew install --cask midi-monitor
 brew install --cask vcv-rack
 brew install --cask surge-synthesizer
-brew install mkchromecast
 brew install --cask reaper
-
+brew install --cask sysex-librarian
 
 # Connectivity
 brew install --cask lulu # block non-wanted connections
+
+# wine. doesn't work >=10.15
+brew tap homebrew/cask-versions
+brew install --cask --no-quarantine wine-stable
 
 # Setup bash settings.
 chmod +x ./reload.sh
