@@ -85,6 +85,7 @@ brew install --cask vcv-rack
 brew install --cask surge-synthesizer
 brew install --cask reaper
 brew install --cask sysex-librarian
+brew install --cask syncthing
 brew install supercollider
 
 # Connectivity
