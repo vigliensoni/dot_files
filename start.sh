@@ -65,6 +65,7 @@ brew install --cask macpass
 brew install --cask appcleaner
 brew install --cask bibdesk
 brew install --cask tomgross/pcloud/pcloud
+brew install --cask obsidian
 
 # Communication apps
 brew install --cask skype
