@@ -89,6 +89,7 @@ brew install --cask reaper
 brew install --cask sysex-librarian
 brew install --cask syncthing
 brew install supercollider
+brew install --cask pd
 
 # Connectivity
 brew install --cask lulu # block non-wanted connections
