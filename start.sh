@@ -73,6 +73,7 @@ brew install --cask slack
 brew install --cask zoomus
 brew install --cask rambox
 # brew install --cask signal
+brew install --cask discord
 
 # Media apps
  #brew cast install mkchromecast
