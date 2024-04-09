@@ -7,18 +7,18 @@ xcode-select --install
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 
 # Install Browsers.
-brew cask install FireFox
-brew cask install google-chrome
+brew install --cask FireFox
+brew install --cask google-chrome
 
 # Install Dev apps.
-# brew cask install atom
-# brew cask install docker
-brew cask install visual-studio-code
+# brew install --cask atom
+# brew install --cask docker
+brew install --cask visual-studio-code
 
 # Install Misc.
-brew cask install keka
-brew cask install skim
-brew cask install rectangle
+brew install --cask keka
+brew install --cask skim
+brew install --cask rectangle
 
 # Install Tools.
 sudo chown -R $(whoami) /usr/local/lib/pkgconfig
