@@ -35,6 +35,12 @@ pip3 install ipython
 brew install imagemagick
 brew install tree
 
+brew install --cask keepassxc
+
+brew tap lyraphase/pcloud
+brew install --cask pcloud-drive
+
+brew install --cask google-drive
 
 # Because mac verion of xargs and sed is god awful.
 brew install findutils
