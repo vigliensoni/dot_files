@@ -14,6 +14,8 @@ brew install --cask google-chrome
 # brew install --cask atom
 # brew install --cask docker
 brew install --cask visual-studio-code
+brew install --cask raycast
+
 
 # Install Misc.
 brew install --cask keka
@@ -59,39 +61,39 @@ defaults write com.apple.coreservices.uiagent CSUILastOSVersionWhereSafariRecomm
 
 # Productivity apps
 brew install --cask iterm2
-brew install --cask evernote
-brew install --cask shades
-brew install --cask google-drive-file-stream
-brew install --cask vnc-viewer
-brew install --cask obs
+# brew install --cask evernote
+# brew install --cask shades
+# brew install --cask google-drive-file-stream
+# brew install --cask vnc-viewer
+# brew install --cask obs
 brew install --cask zotero
 
-brew install --cask dropbox
+# brew install --cask dropbox
 brew install --cask macpass
 brew install --cask appcleaner
-brew install --cask bibdesk
-brew install --cask tomgross/pcloud/pcloud
+# brew install --cask bibdesk
+# brew install --cask tomgross/pcloud/pcloud
 brew install --cask obsidian
 
 # Communication apps
-brew install --cask skype
-brew install --cask slack
+# brew install --cask skype
+# brew install --cask slack
 brew install --cask zoomus
 brew install --cask rambox
 # brew install --cask signal
-brew install --cask discord
+# brew install --cask discord
 
 # Media apps
  #brew cast install mkchromecast
-brew install --cask handbrake
-brew install --cask blackhole
+# brew install --cask handbrake
+# brew install --cask blackhole
 brew install sox
 brew install --cask vlc
 brew install --cask cycling74-max
 brew install --cask ableton-live-suite
 brew install --cask midi-monitor
 brew install --cask vcv-rack
-brew install --cask surge-synthesizer
+# brew install --cask surge-synthesizer
 brew install --cask reaper
 brew install --cask sysex-librarian
 brew install --cask syncthing
