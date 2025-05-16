@@ -107,6 +107,12 @@ brew install --cask lulu # block non-wanted connections
 brew tap homebrew/cask-versions
 brew install --cask --no-quarantine wine-stable
 
+# # Look and feel bash
+# Install oh my zsh
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
+
+
+
 # Setup bash settings.
 chmod +x ./reload.sh
 ./reload.sh
@@ -117,8 +123,4 @@ chmod +x ./reload.sh
 #   nn~
 # Wekinator
 
-
-# # Look and feel bash
-# Install oh my zsh
-sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
 
