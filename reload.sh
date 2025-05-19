@@ -2,7 +2,7 @@
 
 # Copy files over.
 cp ./.aliases ~/ && cp ./.bash_* ~/ && cp ./.functions ~/ && cp ./.inputrc ~/
-cp ./.gitconfig ~/ && ./.macos ~/
+cp ./.gitconfig ~/ && cp ./.macos ~/
 
 # Refresh the settings.
 . ~/.aliases
