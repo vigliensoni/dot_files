@@ -31,6 +31,7 @@ brew install netcat
 # brew install docker
 brew install npm
 brew install htop
+brew install hugo
 
 pip2 install virtualenv
 pip3 install ipython
