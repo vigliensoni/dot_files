@@ -4,7 +4,7 @@
 xcode-select --install
 
 # Install Homebrew.
-/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 
 # Install Browsers.
 brew install --cask FireFox
@@ -21,6 +21,7 @@ brew install --cask raycast
 brew install --cask keka
 brew install --cask skim
 brew install --cask rectangle
+brew install --cask cyberduck
 
 # Install Tools.
 sudo chown -R $(whoami) /usr/local/lib/pkgconfig
@@ -83,7 +84,7 @@ brew install --cask obsidian
 # Communication apps
 # brew install --cask skype
 # brew install --cask slack
-brew install --cask zoomus
+brew install --cask zoom
 brew install --cask rambox
 # brew install --cask signal
 # brew install --cask discord
